@@ -38,7 +38,7 @@
     "electrum-client": "github:janoside/electrum-client",
     "express": "^4.17.1",
     "express-session": "^1.17.1",
-    "jstransformer-markdown-it": "^2.1.0",
+    "jstransformer-markdown-it": "^3.0.0",
     "lru-cache": "^5.1.1",
     "marked": "^0.7.0",
     "md5": "^2.2.1",
